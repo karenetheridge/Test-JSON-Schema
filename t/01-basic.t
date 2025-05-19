@@ -16,5 +16,7 @@ use Test::More 0.88;
 use if $ENV{AUTHOR_TESTING}, 'Test::Warnings';
 use Test::JSON::Schema;
 
+my $todo = todo('not yet implemented');
 fail('this test is TODO!');
+
 done_testing;
