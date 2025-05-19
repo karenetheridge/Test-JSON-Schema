@@ -5,7 +5,7 @@ package Test::JSON::Schema;
 # ABSTRACT: Test your data against a JSON Schema
 # KEYWORDS: JSON Schema test structured data
 
-our $VERSION = '0.001';
+our $VERSION = '0.002';
 
 use 5.020;
 use strictures 2;
