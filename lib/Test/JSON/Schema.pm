@@ -32,7 +32,7 @@ __END__
 
 =head1 SYNOPSIS
 
-  use Test2::V0l
+  use Test2::V0;
   use Test::JSON::Schema;
 
   # something in your application that generates a data structure
