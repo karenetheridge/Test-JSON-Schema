@@ -27,6 +27,8 @@ sub load_json_schema ($schema_or_filename) {
   die 'not yet implemented';
 }
 
+# TODO: sub that sets/gets the globally-scoped evaluator
+
 1;
 __END__
 
